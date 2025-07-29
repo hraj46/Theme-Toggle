@@ -49,6 +49,8 @@ This is a simple web application that allows users to toggle between **light** a
 ---
 
 ## 🌐 Live Demo
+<img width="639" height="519" alt="Screenshot 2025-07-29 234323" src="https://github.com/user-attachments/assets/93359600-6fd8-4041-8d2f-8833ac7bbd3b" />
+<img width="594" height="449" alt="Screenshot 2025-07-29 234355" src="https://github.com/user-attachments/assets/72840432-4965-4d27-8dbb-7730607b7cd1" />
 
 ---
 
