@@ -26,11 +26,6 @@ This is a simple web application that allows users to toggle between **light** a
 
 ---
 
-## 📷 Preview
-<img width="594" height="449" alt="Screenshot 2025-07-29 234355" src="https://github.com/user-attachments/assets/a50dd545-7563-475a-b28b-f9b7582b81f6" />
-
----
-
 ## 🔧 How to Use
 1. Clone the repository:
    ```
